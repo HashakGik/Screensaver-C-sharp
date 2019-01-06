@@ -1,0 +1,5 @@
+*~
+Screensaver/obj
+Screensaver/bin/Debug
+Screensaver/bin/Release/*
+!Screensaver/bin/Release/Screensaver.scr
